@@ -12,7 +12,7 @@
 
 import axios from "axios";
 
-const baseURL = "https://memoriesblogapp.herokuapp.com";
+const baseURL = "https://memories-be-henna.vercel.app";
 
 export const fetchData = async () => {
   const data = await axios.get(`${baseURL}/posts`);
