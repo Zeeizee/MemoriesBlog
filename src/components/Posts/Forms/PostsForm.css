@@ -1,0 +1,17 @@
+.FormContainer {
+  box-shadow: rgba(243, 207, 3, 0.596) 0px 3px 8px inset;
+  background: transparent;
+  color: white;
+  max-width: 18rem;
+  min-width: 18rem;
+
+  border-radius: 3px;
+  padding: 5px;
+}
+.FormContainer .CreateText {
+  font-size: 1.2rem;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  width: 100%;
+  font-weight: 700;
+}

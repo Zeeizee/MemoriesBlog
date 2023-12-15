@@ -1,0 +1,16 @@
+.main {
+  width: 80%;
+}
+.header h2 {
+  text-align: center;
+}
+.content {
+  min-height: 200px;
+}
+.LeftSide {
+  min-height: 200px;
+}
+.RightSide {
+  min-height: 200px;
+  padding: 3px;
+}
